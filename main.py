@@ -8,9 +8,9 @@ Deterministic: no randomness, no network, no clock.
 import os
 
 PLACARD = (
-    "Desk plant, c. 2021. Plastic pot, artificial leaves. "
-    "Watered faithfully for three years by a team that never "
-    "noticed it was fake. Gift of Wellness."
+    "Mouse jiggler, c. 2023. ABS plastic and copper. "
+    "Sacred talisman plugged into laptops to convince distant "
+    "overseers the scribe was still awake. Gift of IT."
 )
 
 
